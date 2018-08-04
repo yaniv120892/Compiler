@@ -1,0 +1,6 @@
+make clean test
+echo 'finished cleaning test!!!!!\n\n'
+make test
+echo '\n\n\n!!!'
+./test
+echo 
